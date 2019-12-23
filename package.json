@@ -1,6 +1,6 @@
 {
-  "name": "drop-down-checkbox",
-  "version": "1.0.1",
+  "name": "id-card-view",
+  "version": "1.0.0",
   "private": false,
   "main": "src/lib/index.js",
   "files": [
@@ -8,11 +8,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/cgj0914/drop-down-checkbox"
+    "url": "https://github.com/cgj0914/id-card-view"
   },
   "keywords": [
     "vue",
-    "下拉多选框",
+    "身份证卡片",
     "自适应"
   ],
   "author": "chengj",
@@ -23,6 +23,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "convenience-image": "^1.0.0",
     "element-ui": "^2.13.0",
     "vue": "^2.5.16"
   },

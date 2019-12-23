@@ -4,10 +4,10 @@
  *     date : 2018/7/20
  * ======================================== */
 
-import DropDownCheckbox from './DropDownCheckbox.vue'
+import IdCardView from './IdCardView.vue'
 
-DropDownCheckbox.install = function (Vue) {
-    Vue.component(DropDownCheckbox.name, DropDownCheckbox)
+IdCardView.install = function (Vue) {
+    Vue.component(IdCardView.name, IdCardView)
 }
 
-export default DropDownCheckbox
+export default IdCardView
