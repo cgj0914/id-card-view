@@ -43,7 +43,6 @@
 </template>
 
 <script>
-
 export default {
   name: 'id-card-view',
   props:{
@@ -81,7 +80,6 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped >
 .id{
   width: 15vw;
